@@ -1,0 +1,8 @@
+
+---
+
+### 📄 `.gitignore` (optional)
+
+```gitignore
+*.txt
+__pycache__/
